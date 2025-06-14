@@ -1,4 +1,4 @@
-import java.util.ArayList; //importando a classe ArrayList (explicada na linha 111).
+import java.util.ArayList; //importando a classe ArrayList (explicada na linha 115).
 
 public class 1_explicando_basico {
     no usages
